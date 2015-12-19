@@ -12,36 +12,42 @@ This repository is maintained to support some HCI research globally.
 
 - **SmartVoice**
 	![](http://chuantu.biz/t2/22/1450518123x-1376436576.png)
+    
 	一种软硬件结合的实时翻译系统，能够帮助演讲者克服语言的障碍，用自己不熟悉的语言进行演讲。
     相关研究[成果](https://github.com/jindongwang/HCI/blob/master/papers/UTokyo/SmartVoice%20-%20A%20Presentation%20Support%20System%20for%20Overcoming%20the%20Language%20Barrier_Li_Rekimoto_2014.pdf)发在人机交互顶级国际会议CHI上：
     	Li X, Rekimoto J. SmartVoice: a presentation support system for overcoming the language barrier[C]//Proceedings of the 32nd annual ACM conference on Human factors in computing systems. ACM, 2014: 1563-1570.
 
 - **Possessed Hand**
 	![](http://chuantu.biz/t2/22/1450518154x-1376436576.png)
+    
 	用电刺激肌肉的方式进行行为的控制。
     相关研究[成果](https://github.com/jindongwang/HCI/blob/master/papers/UTokyo/PossessedHand%20-%20Techniques%20for%20Controlling%20Human%20Hands%20Using%20Electrical%20Muscles_Tamaki%20et%20al_2011.pdf)发在CHI上：
     	Tamaki E, Miyaki T, Rekimoto J. PossessedHand: techniques for controlling human hands using electrical muscles stimuli[C]//Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 2011: 543-552.
         
 - **Aided Eye**
 	![](http://chuantu.biz/t2/22/1450518186x-1376436576.png)
+    
 	检测眼球的活动以此来追踪人的运动。
     相关研究[成果](https://github.com/jindongwang/HCI/blob/master/papers/UTokyo/Aided%20Eyes%20-%20Eye%20Activity%20Sensing%20for%20Daily%20Life_Ishiguro%20et%20al_2010.pdf)发在第一届Augmented Human国际会议上：
     	Ishiguro Y, Mujibiya A, Miyaki T, et al. Aided eyes: eye activity sensing for daily life[C]//Proceedings of the 1st Augmented Human International Conference. ACM, 2010: 25.
         
 - **Flying head**
 	![](http://chuantu.biz/t2/22/1450518222x-1376436576.png)
+    
 	通过人控制四轴飞行器来实现全方位的视角切换与追踪。
     相关研究[成果](https://github.com/jindongwang/HCI/blob/master/papers/UTokyo/Flying%20Head%20-%20A%20Head%20Motion%20Synchronization%20Mechanism%20for%20Unmanned%20Aerial_Higuchi_Rekimoto_2013.pdf)发在CHI上：
     	Higuchi K, Rekimoto J. Flying head: a head motion synchronization mechanism for unmanned aerial vehicle control[C]//CHI'13 Extended Abstracts on Human Factors in Computing Systems. ACM, 2013: 2029-2038.
 
 - **Around Me**
 ![](http://chuantu.biz/t2/22/1450518259x-1376436576.png)
+
 	当人在跑步时，机器会自动跑在人前面给人看正确的跑步姿势，帮助人调整好姿势。
     相关研究[成果](https://github.com/jindongwang/HCI/blob/master/papers/UTokyo/Around%20Me%20-%20A%20System%20with%20an%20Escort%20Robot%20Providing%20a%20Sports%20Player's%20Self-images_Tominaga%20et%20al_2014.pdf)发在AH2014上，获得了best paper：
     	Tominaga J, Kawauchi K, Rekimoto J. Around me: a system with an escort robot providing a sports player's self-images[C]//Proceedings of the 5th Augmented Human International Conference. ACM, 2014: 43.
 
 - **Swimoid**
 	![](http://chuantu.biz/t2/22/1450518282x-1376436576.png)
+    
 	和AroundMe差不多，不过是变成了游泳版本。
     相关研究[成果](https://github.com/jindongwang/HCI/blob/master/papers/UTokyo/Swimoid%20-%20A%20Swim%20Support%20System%20Using%20an%20Underwater%20Buddy%20Robot_Ukai_Rekimoto_2013.pdf)发在CHI上：
     	Ukai Y, Rekimoto J. Swimoid: a swim support system using an underwater buddy robot[C]//Proceedings of the 4th Augmented Human International Conference. ACM, 2013: 170-177.
@@ -53,12 +59,14 @@ This repository is maintained to support some HCI research globally.
 
 - **JackIn Eye**
 	![](http://chuantu.biz/t2/22/1450518304x-1376436576.png)
+    
 	将一个人的视野通过技术手段投影结合到另一个人的视野中，使另一个人能看到这个人看到的东西。
     相关研究[成果](https://github.com/jindongwang/HCI/blob/master/papers/UTokyo/JackIn%20-%20Integrating%20First-person%20View%20with%20Out-of-body%20Vision%20Generation%20for_Kasahara_Rekimoto_2014.pdf)发在Augmented Human上，并获得了best presentation award：
     	Kasahara S, Rekimoto J. JackIn: integrating first-person view with out-of-body vision generation for human-human augmentation[C]//Proceedings of the 5th Augmented Human International Conference. ACM, 2014: 46.
 
 - **JackIn Head**
 	![](http://chuantu.biz/t2/22/1450518328x-1376436576.png)
+    
 	上面的升级版，能看到360度全景的视野。
     相关研究[成果](https://github.com/jindongwang/HCI/blob/master/papers/UTokyo/LiveSphere%20-%20Sharing%20the%20Surrounding%20Visual%20Environment%20for%20Immersive%20Experience_Nagai%20et%20al_2015.pdf)发在TEI上：
     	Nagai S, Kasahara S, Rekimoto J. Livesphere: Sharing the surrounding visual environment for immersive experience in remote collaboration[C]//Proceedings of the Ninth International Conference on Tangible, Embedded, and Embodied Interaction. ACM, 2015: 113-116.
@@ -98,6 +106,7 @@ This repository is maintained to support some HCI research globally.
 
 - **[Lullaby](http://dub.washington.edu/projects/lullaby)**
 	![Lullaby](http://dub.washington.edu/djangosite/media/screenshots/projects/lullaby-mockup-3.png)
+    
     通过检测环境中影响睡眠的指标来促进人的睡眠的一个系统。
     相关研究[成果](https://github.com/jindongwang/HCI/blob/master/papers/UWashington/Lullaby%20-%20A%20Capture%20%26%20Access%20System%20for%20Understanding%20the%20Sleep%20Environment_Kay%20et%20al_2012.pdf)发表在2012年Ubicomp上：
         Kay M, Choe E K, Shepherd J, et al. Lullaby: a capture & access system for understanding the sleep environment[C]//Proceedings of the 2012 ACM Conference on Ubiquitous Computing. ACM, 2012: 226-234.
@@ -109,6 +118,7 @@ This repository is maintained to support some HCI research globally.
 
 - **AirWave**
 	![AirWave](http://www.sidhantgupta.com/images/projects/airwave.jpg)
+    
     创新的人机交互方式，用环形涡来进行手势交互。
 
 更多的研究项目在[这里](https://ubicomplab.cs.washington.edu/)。
@@ -129,6 +139,7 @@ Prof. [Jun Rekimoto](http://lab.rekimoto.org/members-2/rekimoto/)，中文暦本
 
 ####2.4 Tanzeem Choudhury
 ![Tanzeem](http://infosci.cornell.edu/sites/infosci/files/styles/300_square/public/tanzeemportraitcrop.jpg?itok=HFLwYN6G)
+
 [Tanzeem Choudhury](http://www.cs.cornell.edu/~tanzeem/),以前是Andrew的合作伙伴，很厉害的女科学家，MIT Media Lab毕业，现在Cornell副教授。MIT评为全球最年轻的35岁以下科学家，行为识别大师。[Google Scholar](https://scholar.google.com/citations?user=-pyztDMAAAAJ&hl=zh-CN&oi=ao)引用超6000次。
 
 
@@ -171,10 +182,12 @@ Google旗下有一个team叫ATAP，全程是Google Advanced Technology and Proje
 
 - [**Project Soli**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjpwOTYzufJAhVHLmMKHeAXCAoQFggeMAA&url=https%3A%2F%2Fwww.google.com%2Fatap%2Fproject-soli%2F&usg=AFQjCNE_b5x34XIMETmFyo0qHHyoZRf0fA&sig2=YHLgzgzwSZT31mOSiZp0JQ)
 	![Project Soli](http://imgcache.cnyes.com/cnews/20150602/201506021458292632932.jpg)
+    
 	利用高频雷达进行手势交互的芯片，目前已完成第一轮的开发者申请阶段。详细介绍请看我的ppt。炫酷的Youtube视频介绍在[这里](https://www.youtube.com/watch?v=0QNiZfSsPc0)。
     
 - **[Project Jacquard](https://www.google.com/atap/project-jacquard/)**
 	![Project Jacquard](http://www.bjkingtech.com/UploadFile/2015/06/03/2015060316392873499.jpg)
+    
 	将电缆线嵌入衣服中进行交互的技术。炫酷的Youtube视频介绍在[这里](https://www.youtube.com/watch?v=qObSFfdfe7I)。
 
 ###5.我们实验室人机交互小组简介
