@@ -56,7 +56,28 @@ This repository is maintained to support some HCI research globally.
     	Nagai S, Kasahara S, Rekimoto J. Livesphere: Sharing the surrounding visual environment for immersive experience in remote collaboration[C]//Proceedings of the Ninth International Conference on Tangible, Embedded, and Embodied Interaction. ACM, 2015: 113-116.
 
 ####1.2 卡内基梅隆大学人机交互实验室
+[卡内基梅隆大学人机交互实验室](http://www.hcii.cmu.edu)（Human-Computer Interaction Institite）是世界领先的人机交互实验室，创立于1993年，致力于解决人机关系、人类社会活动和电脑之间的关系的研究所。
+一些研究项目：
 
+- **PrivacyGrade**
+	解决人们所关心的智能手机会怎么获取和使用他们每天的数据的一种应用。
+
+- [**ACT-R**](http://act-r.psy.cmu.edu/)
+	开发了一个鲁棒性良好的系统促进人的认知科学的发展，在复杂环境下促进人与环境的交流的系统。
+    
+- Adapting to disaster
+	一个研究音乐家如何在灾难中处理撤离、亲友关系等的研究。
+    
+- [**ALICE**](http://www.alice.org/index.php)
+	在3D环境下教学生学习编程。
+
+- A**utomatic Sign Detection**
+	自动的符号识别与构建，帮助人们了解认识符号系统，减少必要的损失。
+    
+- [**ALPS**](http://www.cs.cmu.edu/~alps/)
+	一个先进的、模仿人教育的系统。
+
+所有的研究项目在[这里](http://www.hcii.cmu.edu/research/archived/grid)。
 
 ####1.3 康奈尔大学普适计算实验室
 
