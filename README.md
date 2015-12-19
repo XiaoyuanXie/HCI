@@ -69,7 +69,8 @@ This repository is maintained to support some HCI research globally.
 ###2.科学家
 
 ####2.1 暦本纯一
-
+Prof. [Jun Rekimoto](http://lab.rekimoto.org/members-2/rekimoto/)，中文暦本纯一，日本东京大学教授，索尼研究所副所长，ACM SIGCHI Academy member，被誉为索尼的增强现实之父。主要研究方向包括人机交互、增强现实、增强人类等方面。在[Google Scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=jun+rekimoto&hl=zh-CN&oi=ao)上被引超过1万次。
+![暦本纯一](http://static.cnbetacdn.com/newsimg/2014/0928/88_1411863423.jpg)
 
 ####2.2 Andrew Campbell
 
