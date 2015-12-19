@@ -79,13 +79,31 @@ This repository is maintained to support some HCI research globally.
 
 所有的研究项目在[这里](http://www.hcii.cmu.edu/research/archived/grid)。
 
-####1.3 康奈尔大学普适计算实验室
+####1.3 华盛顿大学普适计算实验室
+华盛顿大学[Ubicomplab](https://ubicomplab.cs.washington.edu/)位于华盛顿大学，中文翻译叫普适计算实验室。致力于解决普适计算中的诸多现实问题。研究方向包括健康感知、可持续感知及低功耗的感知、新交互方式等方面。在过去5年内获得过25次的国际顶级会议best paper或nominee。
 
+实验室的项目：
+- **[SpiroSmart](https://ubicomplab.cs.washington.edu/projects/SpiroSmart)**
+	使用智能手机来追踪人的肺的功能并给出相应的统计指标。
+    相关研究成果发表在2012年的Ubicomp上：
+    	Larson E C, Goel M, Boriello G, et al. SpiroSmart: using a microphone to measure lung function on a mobile phone[C]//Proceedings of the 2012 ACM Conference on Ubiquitous Computing. ACM, 2012: 280-289.
 
-####1.4 华盛顿大学普适计算实验室
+- **[Lullaby](http://dub.washington.edu/projects/lullaby)**
+	![Lullaby](http://dub.washington.edu/djangosite/media/screenshots/projects/lullaby-mockup-3.png)
+    通过检测环境中影响睡眠的指标来促进人的睡眠的一个系统。
+    相关研究成果发表在2012年Ubicomp上：
+        Kay M, Choe E K, Shepherd J, et al. Lullaby: a capture & access system for understanding the sleep environment[C]//Proceedings of the 2012 ACM Conference on Ubiquitous Computing. ACM, 2012: 226-234.
+        
+- **[Humanantenna](http://research.microsoft.com/en-us/um/redmond/groups/cue/Humantenna/)**
+	用人体的姿势当作天线来进行行为识别。
+    相关研究成果发在2012年CHI上：
+    	Cohn, G., Morris, D., Patel, S.N., Tan, D.S. Humantenna: Using the Body as an Antenna for Real-Time Whole-Body Interaction. In the Proceedings of CHI 2012 (May 5-10, Austin, TX), ACM, New York, 2012, pp. 1901-1910.
 
+- **AirWave**
+	![AirWave](http://www.sidhantgupta.com/images/projects/airwave.jpg)
+    创新的人机交互方式，用环形涡来进行手势交互。
 
-
+更多的研究项目在[这里](https://ubicomplab.cs.washington.edu/)。
 
 ###2.科学家
 
@@ -110,10 +128,47 @@ Prof. [Jun Rekimoto](http://lab.rekimoto.org/members-2/rekimoto/)，中文暦本
 
 ####3.1 国际期刊
 
+- **[ACM TOCHI](http://tochi.acm.org)**
+	全称是ACM Transactions on Computer-Human Interaction，CCF（中国计算机学会）推荐A类顶级刊物。
+
+- **[IJHCS](http://www.journals.elsevier.com/international-journal-of-human-computer-studies/)**
+	全称是International Journal of Human Computer Studies，CCF推荐A类顶级期刊。
+
+- **[CSCW](http://www.springerlink.com/content/100250/)**
+	全称是Computer Supported Cooperative Work，CCF推荐B类顶级期刊。
+    
+- **[HCI](http://hci-journal.com/editorial/index.html)**
+	全称是Human Computer Interaction，CCF推荐B类期刊。
+
+- **[PMC](http://www.journals.elsevier.com/pervasive-and-mobile-computing/)**
+	全称是Pervasive and Mobile Computing，CCF推荐C类期刊。
+    
 ####3.2 国际会议
+- **[ACM CHI](http://sigchi.org/)**
+	全称是ACM Conference on Human Factors in Computing Systems，CCF推荐A类顶级会议。
+    
+- **[ACM Ubicomp](http://www.ubicomp.org)**
+	全称是ACM International Conference on Ubiquitous Computing，现已与Pervasive Computing合并，变成ACM International Joint Conference on Ubiquitous and Pervasive Computing，CCF推荐A类顶级会议。
+    
+- **[UIST](http://www.acm.org/uist/)**
+	全称是ACM Symposium on User Interface Software and Technology，CCF推荐B类顶级会议。
+    
+- **[IEEE PerCom](http://www.percom.org/)**
+	全称是IEEE International Conference on Pervasive Computing and Communications，CCF推荐C类会议。
 
+更多的关于人机交互与普适计算方面及其他计算机研究领域的全部期刊和会议列表在[这里](https://github.com/jindongwang/HCI/blob/master/papers/CCF%E6%8E%A8%E8%8D%90%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE%E5%88%97%E8%A1%A8_.pdf)。
 
+###4.Google
+Google旗下有一个team叫ATAP，全程是Google Advanced Technology and Projects，是由前DARPA的领导人负责的。在2015年5月31日Google I/O大会上推出了全新的两种交互技术：
 
-###4.我们实验室人机交互小组简介
+- [**Project Soli**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjpwOTYzufJAhVHLmMKHeAXCAoQFggeMAA&url=https%3A%2F%2Fwww.google.com%2Fatap%2Fproject-soli%2F&usg=AFQjCNE_b5x34XIMETmFyo0qHHyoZRf0fA&sig2=YHLgzgzwSZT31mOSiZp0JQ)
+	![Project Soli](http://imgcache.cnyes.com/cnews/20150602/201506021458292632932.jpg)
+	利用高频雷达进行手势交互的芯片，目前已完成第一轮的开发者申请阶段。详细介绍请看我的ppt。炫酷的Youtube视频介绍在[这里](https://www.youtube.com/watch?v=0QNiZfSsPc0)。
+    
+- **[Project Jacquard](https://www.google.com/atap/project-jacquard/)**
+	![Project Jacquard](http://www.bjkingtech.com/UploadFile/2015/06/03/2015060316392873499.jpg)
+	将电缆线嵌入衣服中进行交互的技术。炫酷的Youtube视频介绍在[这里](https://www.youtube.com/watch?v=qObSFfdfe7I)。
 
+###5.我们实验室人机交互小组简介
+我们实验室人机交互小组处于新成立阶段，目前的研究方向是通过低功耗行为识别技术进行帕金森病的相关研究，已与北京市区多家医院建立联合实验室，目前已在Science上发表一篇相关的文章。
 
