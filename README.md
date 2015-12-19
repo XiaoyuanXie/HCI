@@ -94,13 +94,16 @@ Prof. [Jun Rekimoto](http://lab.rekimoto.org/members-2/rekimoto/)，中文暦本
 ![暦本纯一](http://static.cnbetacdn.com/newsimg/2014/0928/88_1411863423.jpg)
 
 ####2.2 Andrew Campbell
-
+[Andrew Campbell](http://www.cs.dartmouth.edu/~campbell/)，Dartmouth教授，普适计算领域泰斗级人物，着重研究智能手机和传感器下的行为识别。[Google Scholar](https://scholar.google.com/citations?user=rthco5oAAAAJ&hl=zh-CN)引用超20000次。
+![Andrew T. Campbell](https://scholar.google.com/citations?view_op=view_photo&user=rthco5oAAAAJ&citpid=2)
 
 ####2.3 Gregory Abowd
-
+![Abowd](http://www.cc.gatech.edu/hg/image/349531?f=width100)
+[Gregory Abowd](http://www.ic.gatech.edu/people/gregory-abowd)教授是普适计算的创始人之一，现在在美国佐治亚理工大学。
 
 ####2.4 Tanzeem Choudhury
-
+![Tanzeem](http://infosci.cornell.edu/sites/infosci/files/styles/300_square/public/tanzeemportraitcrop.jpg?itok=HFLwYN6G)
+[Tanzeem Choudhury](http://www.cs.cornell.edu/~tanzeem/),以前是Andrew的合作伙伴，很厉害的女科学家，MIT Media Lab毕业，现在Cornell副教授。MIT评为全球最年轻的35岁以下科学家，行为识别大师。[Google Scholar](https://scholar.google.com/citations?user=-pyztDMAAAAJ&hl=zh-CN&oi=ao)引用超6000次。
 
 
 ###3.代表性国际刊物与会议
