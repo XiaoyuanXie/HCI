@@ -11,6 +11,7 @@ This repository is maintained to support some HCI research globally.
 实验室已完成和在研的主要项目：
 
 - **SmartVoice**
+
 	![](http://chuantu.biz/t2/22/1450518123x-1376436576.png)
     
 	一种软硬件结合的实时翻译系统，能够帮助演讲者克服语言的障碍，用自己不熟悉的语言进行演讲。
@@ -18,6 +19,7 @@ This repository is maintained to support some HCI research globally.
     	Li X, Rekimoto J. SmartVoice: a presentation support system for overcoming the language barrier[C]//Proceedings of the 32nd annual ACM conference on Human factors in computing systems. ACM, 2014: 1563-1570.
 
 - **Possessed Hand**
+
 	![](http://chuantu.biz/t2/22/1450518154x-1376436576.png)
     
 	用电刺激肌肉的方式进行行为的控制。
@@ -25,6 +27,7 @@ This repository is maintained to support some HCI research globally.
     	Tamaki E, Miyaki T, Rekimoto J. PossessedHand: techniques for controlling human hands using electrical muscles stimuli[C]//Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 2011: 543-552.
         
 - **Aided Eye**
+
 	![](http://chuantu.biz/t2/22/1450518186x-1376436576.png)
     
 	检测眼球的活动以此来追踪人的运动。
@@ -32,6 +35,7 @@ This repository is maintained to support some HCI research globally.
     	Ishiguro Y, Mujibiya A, Miyaki T, et al. Aided eyes: eye activity sensing for daily life[C]//Proceedings of the 1st Augmented Human International Conference. ACM, 2010: 25.
         
 - **Flying head**
+
 	![](http://chuantu.biz/t2/22/1450518222x-1376436576.png)
     
 	通过人控制四轴飞行器来实现全方位的视角切换与追踪。
@@ -39,6 +43,7 @@ This repository is maintained to support some HCI research globally.
     	Higuchi K, Rekimoto J. Flying head: a head motion synchronization mechanism for unmanned aerial vehicle control[C]//CHI'13 Extended Abstracts on Human Factors in Computing Systems. ACM, 2013: 2029-2038.
 
 - **Around Me**
+
 ![](http://chuantu.biz/t2/22/1450518259x-1376436576.png)
 
 	当人在跑步时，机器会自动跑在人前面给人看正确的跑步姿势，帮助人调整好姿势。
@@ -46,6 +51,7 @@ This repository is maintained to support some HCI research globally.
     	Tominaga J, Kawauchi K, Rekimoto J. Around me: a system with an escort robot providing a sports player's self-images[C]//Proceedings of the 5th Augmented Human International Conference. ACM, 2014: 43.
 
 - **Swimoid**
+
 	![](http://chuantu.biz/t2/22/1450518282x-1376436576.png)
     
 	和AroundMe差不多，不过是变成了游泳版本。
@@ -58,6 +64,7 @@ This repository is maintained to support some HCI research globally.
     	Nitta K, Higuchi K, Rekimoto J. HoverBall: augmented sports with a flying ball[C]//Proceedings of the 5th Augmented Human International Conference. ACM, 2014: 13.
 
 - **JackIn Eye**
+
 	![](http://chuantu.biz/t2/22/1450518304x-1376436576.png)
     
 	将一个人的视野通过技术手段投影结合到另一个人的视野中，使另一个人能看到这个人看到的东西。
@@ -65,6 +72,7 @@ This repository is maintained to support some HCI research globally.
     	Kasahara S, Rekimoto J. JackIn: integrating first-person view with out-of-body vision generation for human-human augmentation[C]//Proceedings of the 5th Augmented Human International Conference. ACM, 2014: 46.
 
 - **JackIn Head**
+
 	![](http://chuantu.biz/t2/22/1450518328x-1376436576.png)
     
 	上面的升级版，能看到360度全景的视野。
@@ -105,6 +113,7 @@ This repository is maintained to support some HCI research globally.
     	Larson E C, Goel M, Boriello G, et al. SpiroSmart: using a microphone to measure lung function on a mobile phone[C]//Proceedings of the 2012 ACM Conference on Ubiquitous Computing. ACM, 2012: 280-289.
 
 - **[Lullaby](http://dub.washington.edu/projects/lullaby)**
+
 	![Lullaby](http://dub.washington.edu/djangosite/media/screenshots/projects/lullaby-mockup-3.png)
     
     通过检测环境中影响睡眠的指标来促进人的睡眠的一个系统。
@@ -117,6 +126,7 @@ This repository is maintained to support some HCI research globally.
     	Cohn, G., Morris, D., Patel, S.N., Tan, D.S. Humantenna: Using the Body as an Antenna for Real-Time Whole-Body Interaction. In the Proceedings of CHI 2012 (May 5-10, Austin, TX), ACM, New York, 2012, pp. 1901-1910.
 
 - **AirWave**
+
 	![AirWave](http://www.sidhantgupta.com/images/projects/airwave.jpg)
     
     创新的人机交互方式，用环形涡来进行手势交互。
@@ -126,18 +136,26 @@ This repository is maintained to support some HCI research globally.
 ###2.科学家
 
 ####2.1 暦本纯一
-Prof. [Jun Rekimoto](http://lab.rekimoto.org/members-2/rekimoto/)，中文暦本纯一，日本东京大学教授，索尼研究所副所长，ACM SIGCHI Academy member，被誉为索尼的增强现实之父。主要研究方向包括人机交互、增强现实、增强人类等方面。在[Google Scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=jun+rekimoto&hl=zh-CN&oi=ao)上被引超过1万次。
+
 ![暦本纯一](http://static.cnbetacdn.com/newsimg/2014/0928/88_1411863423.jpg)
 
+Prof. [Jun Rekimoto](http://lab.rekimoto.org/members-2/rekimoto/)，中文暦本纯一，日本东京大学教授，索尼研究所副所长，ACM SIGCHI Academy member，被誉为索尼的增强现实之父。主要研究方向包括人机交互、增强现实、增强人类等方面。在[Google Scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=jun+rekimoto&hl=zh-CN&oi=ao)上被引超过1万次。
+
+
 ####2.2 Andrew Campbell
-[Andrew Campbell](http://www.cs.dartmouth.edu/~campbell/)，Dartmouth教授，普适计算领域泰斗级人物，着重研究智能手机和传感器下的行为识别。[Google Scholar](https://scholar.google.com/citations?user=rthco5oAAAAJ&hl=zh-CN)引用超20000次。
+
 ![Andrew T. Campbell](https://scholar.google.com/citations?view_op=view_photo&user=rthco5oAAAAJ&citpid=2)
 
+[Andrew Campbell](http://www.cs.dartmouth.edu/~campbell/)，Dartmouth教授，普适计算领域泰斗级人物，着重研究智能手机和传感器下的行为识别。[Google Scholar](https://scholar.google.com/citations?user=rthco5oAAAAJ&hl=zh-CN)引用超20000次。
+
 ####2.3 Gregory Abowd
+
 ![Abowd](http://www.cc.gatech.edu/hg/image/349531?f=width100)
+
 [Gregory Abowd](http://www.ic.gatech.edu/people/gregory-abowd)教授是普适计算的创始人之一，现在在美国佐治亚理工大学。
 
 ####2.4 Tanzeem Choudhury
+
 ![Tanzeem](http://infosci.cornell.edu/sites/infosci/files/styles/300_square/public/tanzeemportraitcrop.jpg?itok=HFLwYN6G)
 
 [Tanzeem Choudhury](http://www.cs.cornell.edu/~tanzeem/),以前是Andrew的合作伙伴，很厉害的女科学家，MIT Media Lab毕业，现在Cornell副教授。MIT评为全球最年轻的35岁以下科学家，行为识别大师。[Google Scholar](https://scholar.google.com/citations?user=-pyztDMAAAAJ&hl=zh-CN&oi=ao)引用超6000次。
@@ -181,11 +199,13 @@ Prof. [Jun Rekimoto](http://lab.rekimoto.org/members-2/rekimoto/)，中文暦本
 Google旗下有一个team叫ATAP，全程是Google Advanced Technology and Projects，是由前DARPA的领导人负责的。在2015年5月31日Google I/O大会上推出了全新的两种交互技术：
 
 - [**Project Soli**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjpwOTYzufJAhVHLmMKHeAXCAoQFggeMAA&url=https%3A%2F%2Fwww.google.com%2Fatap%2Fproject-soli%2F&usg=AFQjCNE_b5x34XIMETmFyo0qHHyoZRf0fA&sig2=YHLgzgzwSZT31mOSiZp0JQ)
+
 	![Project Soli](http://imgcache.cnyes.com/cnews/20150602/201506021458292632932.jpg)
     
 	利用高频雷达进行手势交互的芯片，目前已完成第一轮的开发者申请阶段。详细介绍请看我的ppt。炫酷的Youtube视频介绍在[这里](https://www.youtube.com/watch?v=0QNiZfSsPc0)。
     
 - **[Project Jacquard](https://www.google.com/atap/project-jacquard/)**
+
 	![Project Jacquard](http://www.bjkingtech.com/UploadFile/2015/06/03/2015060316392873499.jpg)
     
 	将电缆线嵌入衣服中进行交互的技术。炫酷的Youtube视频介绍在[这里](https://www.youtube.com/watch?v=qObSFfdfe7I)。
