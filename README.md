@@ -144,7 +144,7 @@ Prof. [Jun Rekimoto](http://lab.rekimoto.org/members-2/rekimoto/)，中文暦本
 
 ####2.2 Andrew Campbell
 
-![Andrew T. Campbell](https://scholar.google.com/citations?view_op=view_photo&user=rthco5oAAAAJ&citpid=2)
+![Andrew T. Campbell](http://mobiquitous.org/2011/img/atc-2011.jpg)
 
 [Andrew Campbell](http://www.cs.dartmouth.edu/~campbell/)，Dartmouth教授，普适计算领域泰斗级人物，着重研究智能手机和传感器下的行为识别。[Google Scholar](https://scholar.google.com/citations?user=rthco5oAAAAJ&hl=zh-CN)引用超20000次。
 
