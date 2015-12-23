@@ -152,7 +152,7 @@ Prof. [Jun Rekimoto](http://lab.rekimoto.org/members-2/rekimoto/)，中文暦本
 
 ![Abowd](http://www.cc.gatech.edu/hg/image/349531?f=width100)
 
-[Gregory Abowd](http://www.ic.gatech.edu/people/gregory-abowd)教授是普适计算的创始人之一，现在在美国佐治亚理工大学。
+[Gregory Abowd](http://www.ic.gatech.edu/people/gregory-abowd)教授是普适计算的创始人之一，现在在美国佐治亚理工大学。[Google Scholar](https://scholar.google.com/citations?user=gb8sbdcAAAAJ&hl=zh-CN&oi=ao) 引用超30000次。
 
 ####2.4 Tanzeem Choudhury
 
