@@ -202,7 +202,7 @@ Google旗下有一个team叫ATAP，全程是Google Advanced Technology and Proje
 
 	![Project Soli](http://imgcache.cnyes.com/cnews/20150602/201506021458292632932.jpg)
     
-	利用高频雷达进行手势交互的芯片，目前已完成第一轮的开发者申请阶段。详细介绍请看我的ppt。炫酷的Youtube视频介绍在[这里](https://www.youtube.com/watch?v=0QNiZfSsPc0)。
+	利用高频雷达进行手势交互的芯片，目前已完成第一轮的开发者申请阶段。详细介绍请看我的[ppt](https://github.com/jindongwang/HCI/blob/master/keynotes/%E7%8E%8B%E6%99%8B%E4%B8%9C%E5%91%A8%E6%8A%A5-20151217.pptx)。炫酷的Youtube视频介绍在[这里](https://www.youtube.com/watch?v=0QNiZfSsPc0)。
     
 - **[Project Jacquard](https://www.google.com/atap/project-jacquard/)**
 
