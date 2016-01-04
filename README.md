@@ -2,6 +2,7 @@
 This repository is maintained to support some HCI research globally.
 ##人机交互研究简介
 [toc]
+[这里](https://github.com/jindongwang/MachineLearning)是我写的有关机器学习的一些资料介绍。
 
 ###1.实验室
 
